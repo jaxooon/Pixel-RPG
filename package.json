@@ -1,0 +1,24 @@
+{
+  "name": "pixel-rpg",
+  "version": "1.0.0",
+  "description": "Pixel style online RPG featuring player and AI controlled character, real-time combat and EPIC LOOT!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaxooon/Pixel-RPG.git"
+  },
+  "author": "Jackson Barr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaxooon/Pixel-RPG/issues"
+  },
+  "homepage": "https://github.com/jaxooon/Pixel-RPG#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.4",
+    "phaser": "^3.23.0"
+  }
+}
