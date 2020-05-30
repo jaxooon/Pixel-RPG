@@ -1,0 +1,9 @@
+Scenes:
+    -Boot: load assets
+    -title: title, play button, options, ect.
+    -game scene: main game logic
+    -UI: display current gold count
+
+Classes:
+    -Player Classes: Player game object, player input
+    -chest classes: Chest game object, how much gold is in the chest
